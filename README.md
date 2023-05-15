@@ -5,4 +5,4 @@ https://www.youtube.com/watch?v=AX8RYYOKzg0&lc=UgwgGQJsAh6xgc-h76x4AaABAg.9mHuJB
 
 On the blueprint you can find a series of editable variables
 
-You can this bp for any project
+You can use this bp for any project, if u need help or want to attribute the project you can do that --> twitter @gvn908
