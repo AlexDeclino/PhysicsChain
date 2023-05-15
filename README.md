@@ -1,3 +1,8 @@
-# PhysicsChain
+Procedural Chain with physics in Unreal Engine 5
 
-Developed with Unreal Engine 6
+This blueprint is an addition to Alex Huang's tutorial that you can find here:
+https://www.youtube.com/watch?v=AX8RYYOKzg0&lc=UgwgGQJsAh6xgc-h76x4AaABAg.9mHuJBdXIAF9phsgf2Lho1
+
+On the blueprint you can find a series of editable variables
+
+You can this bp for any project
